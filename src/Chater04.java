@@ -7,7 +7,7 @@ public class Chater04 {
 		name = "all for one. one for all.";
 		System.out.println(name);
 
-		final int num = 8;
-		System.out.println(num);
+		final int NUM = 8;
+		System.out.println(NUM);
 	}
 }
